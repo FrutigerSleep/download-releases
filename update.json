@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7.4",
+  "version": "1.0.8.6",
   "url": "https://github.com/FrutigerSleep/download-releases/releases/download/ddd/DownloaderSetup.exe",
-  "sha256": "7374fdf75a12837bdccc246c90b74f965b82e3afd79732da9611980e9ffc121e",
+  "sha256": "3beb82856578ff2703298e3643e6b3e85ebe25cd5651af2c7f4e32d9fc6d6052",
   "notes": "- Slight tweaks to the UI\n- Patch notes now come up on screen"
 }
