@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6.3",
+  "version": "1.0.7.4",
   "url": "https://github.com/FrutigerSleep/download-releases/releases/download/ddd/DownloaderSetup.exe",
-  "sha256": "d370f2876b56255a8ab776c43f2b02746c25615af945e66c232f2f3954b6d343",
-  "notes": "settings, sliders and update progress bar now follow your accent color (no stuck green gradient).\nwhen downloading mixes it now asks if you want to download the first song or the mix!\nwhen using the app as Kriss, it will automatically fail everytime."
+  "sha256": "7374fdf75a12837bdccc246c90b74f965b82e3afd79732da9611980e9ffc121e",
+  "notes": "- Slight tweaks to the UI\n- Patch notes now come up on screen"
 }
