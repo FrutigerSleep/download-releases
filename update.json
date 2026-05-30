@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8.6",
+  "version": "1.0.9.8",
   "url": "https://github.com/FrutigerSleep/download-releases/releases/download/ddd/DownloaderSetup.exe",
-  "sha256": "3beb82856578ff2703298e3643e6b3e85ebe25cd5651af2c7f4e32d9fc6d6052",
-  "notes": "- Slight tweaks to the UI\n- Patch notes now come up on screen"
+  "sha256": "cd5ab6efbd9ab9eda57d620e8b1774390d71cf8301ab0f59588418cb9dd89114",
+  "notes": "- youtube videos now download properly"
 }
