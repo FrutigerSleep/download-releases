@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9.8",
+  "version": "1.1.2.9",
   "url": "https://github.com/FrutigerSleep/download-releases/releases/download/ddd/DownloaderSetup.exe",
-  "sha256": "cd5ab6efbd9ab9eda57d620e8b1774390d71cf8301ab0f59588418cb9dd89114",
+  "sha256": "527b49ad801e975ebcfe29c32a10ba3bec228b190514deb0d2c5aa6e333dc919",
   "notes": "- youtube videos now download properly"
 }
