@@ -1,6 +1,7 @@
 {
-  "version": "1.1.2.9",
+  "version": "1.1.3.10",
   "url": "https://github.com/FrutigerSleep/download-releases/releases/download/ddd/DownloaderSetup.exe",
-  "sha256": "527b49ad801e975ebcfe29c32a10ba3bec228b190514deb0d2c5aa6e333dc919",
-  "notes": "- youtube videos now download properly"
+  "sha256": "9feae996dce6979e0e5dd81aee50ee4c2ca315badd828f5e6c76b53bee27d77a",
+  "notes": "youtube videos now download properly!"
+  "notes": "discord now joinable through settings panel!"
 }
