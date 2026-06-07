@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0.1",
+  "version": "1.0.2.3",
   "url": "https://github.com/FrutigerSleep/download-releases/releases/download/ddd/DownloaderSetup.exe",
-  "sha256": "da27f95aab4142d2499462cbbc53e94fbd86a62483a8d9ff6f2b3a7180cd0663",
-  "notes": "Initial release"
+  "sha256": "6052dc81389863df3c52f6c9324299ee1d707688066338a7ec0e8fc0a7f6e303",
+  "notes": "opacity on fade fixed"
 }
